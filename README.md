@@ -40,7 +40,7 @@ Currently developing **Parkinson's Disease Detection** — an ML-powered voice b
 | Award | Details |
 |---|---|
 | 👩‍💼 President | Computer Science Society, BIT Mesra · March 2026 – Present |
-| 🎓 BCA | Birla Institute of Technology, Mesra · 8.13 CGPA |
+| 🎓 BCA | Birla Institute of Technology, Mesra · 8.15 CGPA |
 | 🏫 Grade XII | Cambrian Public School, Ranchi · 72.67% |
 
 ---
